@@ -1,0 +1,5 @@
+{
+  "name": "md-diff-preview",
+  "owner": { "name": "KokiKono" },
+  "plugins": [{ "name": "md-diff-preview", "source": "./" }]
+}
